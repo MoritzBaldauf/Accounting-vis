@@ -2,7 +2,7 @@
   "name": "accounting-vis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "homepage": "https://MoritzBaldauf.github.io/Accounting-vis",
+  "homepage": "https://MoritzBaldauf.github.io/Accounting-vis",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
